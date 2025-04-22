@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://truyenhinh.click/EPG-VN"
-#####url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+
 
 #Tổng hợp bởi Trần Hoàng Thứ, được tổng hợp từ nhiều nguồn khác nhau
 
@@ -8,13 +8,13 @@
 #Tuyệt đối 100% không thu phí hay có bất kì hình thức thu tiền của mọi người
 
 
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" group-title="VTV", VTV1
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" group-title="VTV", VTV1 HD
 http://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg" group-title="VTV", VTV2
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg" group-title="VTV", VTV2 HD
 http://p1.cvtv.xyz/vtv2?token=live
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg" group-title="VTV", VTV3
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg" group-title="VTV", VTV3 HD
 http://p1.cvtv.xyz/vtv3?token=live
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg" group-title="VTV", VTV4
+#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg" group-title="VTV", VTV4 HD
 http://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hd.jpg" group-title="VTV", VTV5
 http://p1.cvtv.xyz/vtv5?token=live
