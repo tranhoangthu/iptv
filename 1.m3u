@@ -584,11 +584,28 @@ http://samisat44.xyz:80/live/5XF88W5/A38UYQV/68857.ts
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s", Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
-#EXTINF:-1 tvg-id="K+ Sport 1" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kpm_172771660734.jpg?w=300",K+ Sport 1 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) #EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=ksport1 
-#EXTINF:-1 tvg-id="K+ Sport 2" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kpc_172771667492.jpg?w=300",K+ Sport 2 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) #EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=ksport2 
-#EXTINF:-1 tvg-id="K+ CINE" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k1_172771644656.jpg?w=300",K+ CINE #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) #EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=kcine 
-#EXTINF:-1 tvg-id="K+ ACTION" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kns_172771621265.jpg?w=300",K+ ACTION #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) #EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=kaction 
-#EXTINF:-1 tvg-id="K+ KIDS" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k-kids-hd_172771651866.jpg?w=300",K+ KIDS #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) #EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=kkids
+#EXTINF:-1 tvg-id="K+ Sport 1" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kpm_172771660734.jpg?w=300",K+ Sport 1 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11) #EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=ksport1 
+#EXTINF:-1 tvg-id="K+ Sport 2" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kpc_172771667492.jpg?w=300",K+ Sport 2 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=ksport2 
+#EXTINF:-1 tvg-id="K+ CINE" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k1_172771644656.jpg?w=300",K+ CINE #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=kcine 
+#EXTINF:-1 tvg-id="K+ ACTION" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kns_172771621265.jpg?w=300",K+ ACTION #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=kaction 
+#EXTINF:-1 tvg-id="K+ KIDS" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k-kids-hd_172771651866.jpg?w=300",K+ KIDS 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11) #EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=kkids
+
+
+
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1710917207/cmc_new/img.live_channel/0/0/0/0/173.jpg",Cartoon Network #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=cartoon 
+#EXTINF:-1 tvg-id="Cinemax" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=cinemax 
+#EXTINF:-1 tvg-id="HBO" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1710918372/cmc_new/img.live_channel/0/0/0/0/263.jpg",HBO #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=hbo 
+#EXTINF:-1 tvg-id="AXN" group-title="K+" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" 
+ tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1717940065/cmc_new/img.live_channel/0/0/0/0/172.jpg",AXN #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
+#EXTVLCOPT:http-referrer=https://deptraivkl.com/ https://sctv.locket.website/kplus.m3u8?channel=axn 
 
 
 
