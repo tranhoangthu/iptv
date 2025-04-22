@@ -8,101 +8,101 @@
 #Tuyệt đối 100% không thu phí hay có bất kì hình thức thu tiền của mọi người
 
 
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" group-title="VTV", VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" group-title="VTV", VTV1
 http://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg" group-title="VTV", VTV2 HD
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg" group-title="VTV", VTV2
 http://p1.cvtv.xyz/vtv2?token=live
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg" group-title="VTV", VTV3 HD
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg" group-title="VTV", VTV3
 http://p1.cvtv.xyz/vtv3?token=live
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg" group-title="VTV", VTV4 HD
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg" group-title="VTV", VTV4
 http://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hd.jpg" group-title="VTV", VTV5
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hd.jpg" group-title="VTV", VTV5
 http://p1.cvtv.xyz/vtv5?token=live
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtnb.jpg" group-title="VTV", VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtnb.jpg" group-title="VTV", VTV5 Tây Nam Bộ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtn.jpg" group-title="VTV", VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtn.jpg" group-title="VTV", VTV5 Tây Nguyên
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtvcantho.jpg" group-title="VTV", VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtvcantho" tvg-logo="https://img.lichphatsong.xyz/logo/vtvcantho.jpg" group-title="VTV", VTV Cần Thơ
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv7hd.jpg" group-title="VTV", VTV7
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv7hd.jpg" group-title="VTV", VTV7
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv8hd.jpg" group-title="VTV", VTV8
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv8hd.jpg" group-title="VTV", VTV8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/vtv9hd.jpg" group-title="VTV", VTV9
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv9hd.jpg" group-title="VTV", VTV9
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-viegiaitri.jpg" group-title="VTVcab",ON Vie Giải trí
+#EXTINF:-1 tvg-id="onviegiaitri" tvg-logo="https://img.lichphatsong.xyz/logo/on-viegiaitri.jpg" group-title="VTVcab",ON Vie Giải trí
 https://sgchill.io.vn/tv/tv360.php?id=180
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-phimviet.jpg" group-title="VTVcab", ON Phim Việt
+#EXTINF:-1 tvg-id="onphimviet" tvg-logo="https://img.lichphatsong.xyz/logo/on-phimviet.jpg" group-title="VTVcab", ON Phim Việt
 https://sgchill.io.vn/tv/tv360.php?id=175
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-movies.jpg" group-title="VTVcab", On Movies - You TV
+#EXTINF:-1 tvg-id="onmovies" tvg-logo="https://img.lichphatsong.xyz/logo/on-movies.jpg" group-title="VTVcab", On Movies - You TV
 https://sgchill.io.vn/tv/tv360.php?id=181
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-echannel.jpg" group-title="VTVcab", ON E- Channel
+#EXTINF:-1 tvg-id="onechannel" tvg-logo="https://img.lichphatsong.xyz/logo/on-echannel.jpg" group-title="VTVcab", ON E- Channel
 https://sgchill.io.vn/tv/tv360.php?id=182
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-o2tv.jpg" group-title="VTVcab", On O2TV
+#EXTINF:-1 tvg-id="ono2tv" tvg-logo="https://img.lichphatsong.xyz/logo/on-o2tv.jpg" group-title="VTVcab", On O2TV
 https://sgchill.io.vn/tv/tv360.php?id=136
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-bibi.jpg" group-title="VTVcab", On BiBi
+#EXTINF:-1 tvg-id="onbibi" tvg-logo="https://img.lichphatsong.xyz/logo/on-bibi.jpg" group-title="VTVcab", On BiBi
 https://sgchill.io.vn/tv/tv360.php?id=178
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-infotv.jpg" group-title="VTVcab", ON Info TV
+#EXTINF:-1 tvg-id="oninfotv" tvg-logo="https://img.lichphatsong.xyz/logo/on-infotv.jpg" group-title="VTVcab", ON Info TV
 https://sgchill.io.vn/tv/tv360.php?id=189
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-cine.jpg" group-title="VTVcab", ON Cine
+#EXTINF:-1 tvg-id="oncine" tvg-logo="https://img.lichphatsong.xyz/logo/on-cine.jpg" group-title="VTVcab", ON Cine
 https://sgchill.io.vn/tv/tv360.php?id=176
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-style.jpg" group-title="VTVcab", ON Style TV
+#EXTINF:-1 tvg-id="onstyle" tvg-logo="https://img.lichphatsong.xyz/logo/on-style.jpg" group-title="VTVcab", ON Style TV
 https://sgchill.io.vn/tv/tv360.php?id=184
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-music.jpg" group-title="VTVcab", On Music
+#EXTINF:-1 tvg-id="onmusic" tvg-logo="https://img.lichphatsong.xyz/logo/on-music.jpg" group-title="VTVcab", On Music
 https://sgchill.io.vn/tv/tv360.php?id=185
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-trending.jpg" group-title="VTVcab", ON TRENDING TV
+#EXTINF:-1 tvg-id="ontrending" tvg-logo="https://img.lichphatsong.xyz/logo/on-trending.jpg" group-title="VTVcab",ON Trending TV
 https://sgchill.io.vn/tv/tv360.php?id=186
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-viedramas.jpg" group-title="VTVcab", ON Vie Dramas
+#EXTINF:-1 tvg-id="onviedramas" tvg-logo="https://img.lichphatsong.xyz/logo/on-viedramas.jpg" group-title="VTVcab", ON Vie Dramas
 https://sgchill.io.vn/tv/tv360.php?id=177
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-vfamily.jpg" group-title="VTVcab", ON V Family
+#EXTINF:-1 tvg-id="onvfamily" tvg-logo="https://img.lichphatsong.xyz/logo/on-vfamily.jpg" group-title="VTVcab", ON V Family
 https://sgchill.io.vn/tv/tv360.php?id=187
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-kids.jpg" group-title="VTVcab", On Kids
+#EXTINF:-1 tvg-id="onkids" tvg-logo="https://img.lichphatsong.xyz/logo/on-kids.jpg" group-title="VTVcab", On Kids
 https://sgchill.io.vn/tv/tv360.php?id=179
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-life.jpg" group-title="VTVcab", On Life
+#EXTINF:-1 tvg-id="onlife" tvg-logo="https://img.lichphatsong.xyz/logo/on-life.jpg" group-title="VTVcab", On Life
 https://sgchill.io.vn/tv/tv360.php?id=188
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/on-golf.jpg" group-title="VTVcab", ON Golf
+#EXTINF:-1 tvg-id="ongolf" tvg-logo="https://img.lichphatsong.xyz/logo/on-golf.jpg" group-title="VTVcab", ON Golf
 https://sgchill.io.vn/tv/tv360.php?id=169
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv1hd.png" group-title="SCTV", SCTV1 HD
+#EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv1hd.png" group-title="SCTV", SCTV1 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv1
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv2hd.png" group-title="SCTV", SCTV2 HD - TODAY TV
+#EXTINF:-1 tvg-id="sctv2hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv2hd.png" group-title="SCTV", SCTV2 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv2
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv3hd.png" group-title="SCTV", SCTV3 HD
+#EXTINF:-1 tvg-id="sctv3hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv3hd.png" group-title="SCTV", SCTV3 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv3
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv4hd.png" group-title="SCTV", SCTV4 HD
+#EXTINF:-1 tvg-id="sctv4hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv4hd.png" group-title="SCTV", SCTV4 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/SCTV5.jpg" group-title="SCTV", SCTV5 HD - SCJ
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/27/SCTV5_logo_2011.png/revision/latest?cb=20240917042739&path-prefix=vi" group-title="SCTV", SCTV5 HD - SCJ
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv5
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv6hd.png" group-title="SCTV", SCTV6 HD
+#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv6hd.png" group-title="SCTV", SCTV6 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv6
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv7hd.png" group-title="SCTV", SCTV7 HD
+#EXTINF:-1 tvg-id="sctv7hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv7hd.png" group-title="SCTV", SCTV7 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv7
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv8hd.png" group-title="SCTV", SCTV8 HD
+#EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv8hd.png" group-title="SCTV", SCTV8 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv8
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv9hd.png" group-title="SCTV", SCTV9 HD
+#EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv9hd.png" group-title="SCTV", SCTV9 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SCTV10.jpg" group-title="SCTV", SCTV10
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv10
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv11hd.png" group-title="SCTV", SCTV11 HD
+#EXTINF:-1 tvg-id="sctv11hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv11hd.png" group-title="SCTV", SCTV11 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv11
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv12hd.png" group-title="SCTV", SCTV12 HD
+#EXTINF:-1 tvg-id="sctv12hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv12hd.png" group-title="SCTV", SCTV12 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv12
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv13hd.png" group-title="SCTV", SCTV13 HD
+#EXTINF:-1 tvg-id="sctv13hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv13hd.png" group-title="SCTV", SCTV13 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv13
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv14hd.png" group-title="SCTV", SCTV14 HD
+#EXTINF:-1 tvg-id="sctv14hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv14hd.png" group-title="SCTV", SCTV14 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv14
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv16hd.png" group-title="SCTV", SCTV16 HD
+#EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv16hd.png" group-title="SCTV", SCTV16 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv16
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv18hd.png" group-title="SCTV", SCTV18 HD
+#EXTINF:-1 tvg-id="sctv18hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv18hd.png" group-title="SCTV", SCTV18 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv18
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv19hd.png" group-title="SCTV", SCTV19 HD
+#EXTINF:-1 tvg-id="sctv19hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv19hd.png" group-title="SCTV", SCTV19 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv19
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv20hd.png" group-title="SCTV", SCTV20 HD
+#EXTINF:-1 tvg-id="sctv20hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv20hd.png" group-title="SCTV", SCTV20 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv20
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv21hd.jpg" group-title="SCTV", SCTV21 HD
+#EXTINF:-1 tvg-id="sctv21hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv21hd.jpg" group-title="SCTV", SCTV21 HD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv21
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctv22hd.png" group-title="SCTV", SCTV22 FHD
+#EXTINF:-1 tvg-id="sctv22hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv22hd.png" group-title="SCTV", SCTV22 FHD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv22
-#EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/sctvhdpth.png" group-title="SCTV", SCTV HD Phim Tổng Hợp
+#EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://img.lichphatsong.xyz/logo/sctvhdpth.png" group-title="SCTV", SCTV HD Phim Tổng Hợp
 https://sctv.locket.website/sctvonline.m3u8?channel=sctvphim
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg" group-title="📦| In The Box", Box Movie 1
 https://sgchill.io.vn/tv/tv360.php?id=159
@@ -588,3 +588,4 @@ https://strm.voh.com.vn/radio/channel1/chunklist_w1203304311.m3u8
 https://strm.voh.com.vn/radio/channel2/chunklist_w558517770.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="🇻🇳 Vietnam Radio",NHK WORLD
 https://b-nhkwlive-rj.nhkworld.jp/hls/live/2003468-b/rj-7ch/index_07.m3u8
+
