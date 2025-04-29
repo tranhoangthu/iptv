@@ -1,5 +1,11 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-# TỔNG HỢP BỞI TRẦN HOÀNG THỨ
+
+
+#Tổng hợp bởi Trần Hoàng Thứ, được tổng hợp từ nhiều nguồn khác nhau
+
+#Đây là kênh tổng hợp của các kênh truyền hình iptv trên mạng xã hội, Admin không phải tác giả của những kênh này, do đó không chịu trách nhiệm về bất cứ điều gì dưới mọi hình thức
+
+#Tuyệt đối 100% không thu phí hay có bất kì hình thức thu tiền của mọi người
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" group-title="VTV", VTV1
 http://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg" group-title="VTV", VTV2
@@ -22,131 +28,80 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv9hd.jpg" group-title="VTV", VTV9
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
-
-
-#==============================================================================================================================================================================
-#EXTINF:-1 tvg-id="onviegiaitri" tvg-logo="https://img.lichphatsong.xyz/logo/on-viegiaitri.jpg" group-title="VTVcab",ON Vie Giải trí
-https://sgchill.io.vn/tv/tv360.php?id=180
+#EXTINF:-1 tvg-id="onviegiaitri" tvg-logo="https://img.lichphatsong.xyz/logo/on-viegiaitri.jpg" group-title="VTVcab", ON Vie Giải trí
+https://xem.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onphimviet" tvg-logo="https://img.lichphatsong.xyz/logo/on-phimviet.jpg" group-title="VTVcab", ON Phim Việt
-https://sgchill.io.vn/tv/tv360.php?id=175
+https://xem.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onmovies" tvg-logo="https://img.lichphatsong.xyz/logo/on-movies.jpg" group-title="VTVcab", On Movies - You TV
-https://sgchill.io.vn/tv/tv360.php?id=181
+https://xem.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onechannel" tvg-logo="https://img.lichphatsong.xyz/logo/on-echannel.jpg" group-title="VTVcab", ON E- Channel
-https://sgchill.io.vn/tv/tv360.php?id=182
+https://xem.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ono2tv" tvg-logo="https://img.lichphatsong.xyz/logo/on-o2tv.jpg" group-title="VTVcab", On O2TV
 https://sgchill.io.vn/tv/tv360.php?id=136
 #EXTINF:-1 tvg-id="onbibi" tvg-logo="https://img.lichphatsong.xyz/logo/on-bibi.jpg" group-title="VTVcab", On BiBi
-https://sgchill.io.vn/tv/tv360.php?id=178
+https://xem.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="oninfotv" tvg-logo="https://img.lichphatsong.xyz/logo/on-infotv.jpg" group-title="VTVcab", ON Info TV
-https://sgchill.io.vn/tv/tv360.php?id=189
+https://xem.TruyenHinh.Click/CoBan/vtvcab9hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="oncine" tvg-logo="https://img.lichphatsong.xyz/logo/on-cine.jpg" group-title="VTVcab", ON Cine
-https://sgchill.io.vn/tv/tv360.php?id=176
+https://xem.TruyenHinh.Click/CoBan/vtvcab10hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onstyle" tvg-logo="https://img.lichphatsong.xyz/logo/on-style.jpg" group-title="VTVcab", ON Style TV
-https://sgchill.io.vn/tv/tv360.php?id=184
+https://xem.TruyenHinh.Click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onmusic" tvg-logo="https://img.lichphatsong.xyz/logo/on-music.jpg" group-title="VTVcab", On Music
-https://sgchill.io.vn/tv/tv360.php?id=185
-#EXTINF:-1 tvg-id="ontrending" tvg-logo="https://img.lichphatsong.xyz/logo/on-trending.jpg" group-title="VTVcab",ON Trending TV
-https://sgchill.io.vn/tv/tv360.php?id=186
+https://xem.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ontrending" tvg-logo="https://img.lichphatsong.xyz/logo/on-trending.jpg" group-title="VTVcab", ON Trending TV
+https://xem.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onviedramas" tvg-logo="https://img.lichphatsong.xyz/logo/on-viedramas.jpg" group-title="VTVcab", ON Vie Dramas
-https://sgchill.io.vn/tv/tv360.php?id=177
+https://xem.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onvfamily" tvg-logo="https://img.lichphatsong.xyz/logo/on-vfamily.jpg" group-title="VTVcab", ON V Family
-https://sgchill.io.vn/tv/tv360.php?id=187
+https://xem.TruyenHinh.Click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onkids" tvg-logo="https://img.lichphatsong.xyz/logo/on-kids.jpg" group-title="VTVcab", On Kids
-https://sgchill.io.vn/tv/tv360.php?id=179
+https://xem.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onlife" tvg-logo="https://img.lichphatsong.xyz/logo/on-life.jpg" group-title="VTVcab", On Life
-https://sgchill.io.vn/tv/tv360.php?id=188
+https://xem.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ongolf" tvg-logo="https://img.lichphatsong.xyz/logo/on-golf.jpg" group-title="VTVcab", ON Golf
-https://sctv.locket.website/box.m3u8?protected=Bxyy0kFHt1km1Pybk010VmMVTmn%2Bdv6EnfKQdxPX%2BnEDDHsdRnUar9m5lQ%2BW8SMcoWF8RlzUY1LpKG6S%2Bkq08A%3D%3D&channel=ongolf&sports=true
-
-
-
-#==============================================================================================================================================================================================
+https://xem.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv1hd.png" group-title="SCTV", SCTV1 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-id="sctv2hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv2hd.png" group-title="SCTV", SCTV2 HD
 https://xem.TruyenHinh.Click/CoBan/sctv2hd/TuyetDoiKhongKinhDoanh.m3u8
-
 #EXTINF:-1 tvg-id="sctv3hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv3hd.png" group-title="SCTV", SCTV3 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-id="sctv4hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv4hd.png" group-title="SCTV", SCTV4 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/27/SCTV5_logo_2011.png/revision/latest?cb=20240917042739&path-prefix=vi" group-title="SCTV", SCTV5 HD - SCJ
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv6hd.png" group-title="SCTV", SCTV6 HD
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-id="sctv7hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv7hd.png" group-title="SCTV", SCTV7 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv8hd.png" group-title="SCTV", SCTV8 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv9hd.png" group-title="SCTV", SCTV9 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SCTV10.jpg" group-title="SCTV", SCTV10
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-id="sctv11hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv11hd.png" group-title="SCTV", SCTV11 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-id="sctv12hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv12hd.png" group-title="SCTV", SCTV12 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-id="sctv13hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv13hd.png" group-title="SCTV", SCTV13 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-id="sctv14hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv14hd.png" group-title="SCTV", SCTV14 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv16hd.png" group-title="SCTV", SCTV16 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-id="sctv18hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv18hd.png" group-title="SCTV", SCTV18 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-id="sctv19hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv19hd.png" group-title="SCTV", SCTV19 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-id="sctv20hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv20hd.png" group-title="SCTV", SCTV20 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-id="sctv21hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv21hd.jpg" group-title="SCTV", SCTV21 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
 #EXTINF:-1 tvg-id="sctv22hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv22hd.png" group-title="SCTV", SCTV22 FHD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv22
-
 #EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://img.lichphatsong.xyz/logo/sctvhdpth.png" group-title="SCTV", SCTV HD Phim Tổng Hợp
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 https://raw.githubusercontent.com/tranhoangthu/iptv/refs/heads/main/sctv%20error.mp4
-
-
-
-
-#==================================================================================================================================================================================
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg" group-title="📦| In The Box", Box Movie 1
 https://sgchill.io.vn/tv/tv360.php?id=159
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg" group-title="📦| In The Box", Hollywood Classics
@@ -167,8 +122,6 @@ https://sgchill.io.vn/tv/tv360.php?id=212
 https://sgchill.io.vn/tv/tv360.php?id=135
 #EXTINF:-1 tvg-id="woman" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png" group-title="📦| In The Box", Woman
 https://sgchill.io.vn/tv/tv360.php?id=163
-
-#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" group-title="HTV", HTV1
 https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/a0/07/73/39/9e/e6/a0739-phtv2hd-channel-unkn.png" group-title="HTV", HTV2 - Vie Channel
@@ -197,16 +150,12 @@ https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_640_360.png" group-title="HTVC", HTVC Plus HD
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
-
-#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-id="antvhd" tvg-logo="https://img.lichphatsong.xyz/logo/antv.png" group-title="🌐| Thiết yếu", ANTV HD
 https://sgchill.io.vn/tv/tv360.php?id=20
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://img.lichphatsong.xyz/logo/qpvnhd.jpg" group-title="🌐| Thiết yếu", QPVN HD
 https://sgchill.io.vn/tv/tv360.php?id=19
-#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-id="anvienhd" tvg-logo="https://i.ytimg.com/vi/_rDp9EylTPg/maxresdefault.jpg" group-title="Khác", BTV9 - An Viên TV
 https://btv11011220.cdn.vnns.io/8ae612fb76128aa8d8acb62f7f9361a61745327029/btv9.720p.tms/playlist.m3u8
-#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-id="daklak" tvg-logo="https://img.lichphatsong.xyz/logo/daklak.png" group-title="Địa phương", DRT HD | TH Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 #EXTINF:-1 tvg-id="daknong" tvg-logo="https://img.lichphatsong.xyz/logo/daknong.png" group-title="Địa phương", PTD | Truyền Hình Đắk Nông
@@ -247,7 +196,6 @@ https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="baclieu" tvg-logo="https://img.lichphatsong.xyz/logo/baclieu.jpg" group-title="Địa phương", Bạc Liêu HD
 https://tv.thbl.vn/live/tv/tv.m3u8
-#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong1hd.jpg" group-title="Địa phương", THVL1 HD
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong2hd.jpg" group-title="Địa phương", THVL2 HD
@@ -256,7 +204,6 @@ https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong4hd.png" group-title="Địa phương", THVL4 HD
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
-#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://img.lichphatsong.xyz/logo/angiang.png" group-title="Địa phương", ATV | Truyền Hình An Giang
 https://xem.TruyenHinh.Click/CoBan/123/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vungtau" tvg-logo="https://img.lichphatsong.xyz/logo/vungtau.png" group-title="Địa phương", BRT | Truyền Hình Bà Rịa Vũng Tàu
@@ -365,9 +312,6 @@ https://btv2011220.cdn.vnns.io/1623b3bf6bd6f19c3399df8d4bab80fa1745327029/btv2.4
 https://xem.TruyenHinh.Click/CoBan/168/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="lamdong" tvg-logo="https://img.lichphatsong.xyz/logo/lamdong.png" group-title="Địa phương", LTV HD | Truyền Hình Lâm Đồng
 https://xem.TruyenHinh.Click/CoBan/158/TuyetDoiKhongKinhDoanh.m3u8
-
-
-#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png" group-title="Quốc Tế", HBO
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/hbohitshd-asia.png" group-title="Quốc Tế", HBO Hits HD
@@ -468,7 +412,6 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/11018
 http://samisat44.xyz:80/live/5XF88W5/A38UYQV/68857.ts
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s" group-title="Quốc Tế", Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-id="ksport1hd" tvg-logo="https://img.lichphatsong.xyz/logo/ksport1hd.jpg" group-title="K+", K+ Sport 1
 https://sctv.locket.website/kplus.m3u8?protected=sEg%2FVl6BGZvBOC0k2%2BW%2BGuClIkO1vhCWpOgxwaE%2F3qqZAqI87qKoXnUpJM191QZ7TUfx5tWVmLslAog990c9yQ%3D%3D&channel=ksport1
 #EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://img.lichphatsong.xyz/logo/ksport2hd.jpg" group-title="K+", K+ Sport 2
@@ -479,7 +422,6 @@ https://sctv.locket.website/kplus.m3u8?protected=hsrZebF1Fk%2BKb%2BEqLu2l8Hi%2FD
 https://sctv.locket.website/kplus.m3u8?protected=F03J8dAFzIgUVPMDo0qbQJ6nFyu9DbCI5H56aX%2BXXTbgdgLVvQ7iK3M7Md44rA8uQKcWUq81CA9wqkukoTshhQ%3D%3D&channel=kaction
 #EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://img.lichphatsong.xyz/logo/kkidshd.jpg" group-title="K+", K+ KIDS
 https://sctv.locket.website/kplus.m3u8?protected=RceWRFgtmtseWeOHmG6HtnD22jPmyoT%2FzDoWf0LSe0qya4Xu%2F9pDp4fqs6roRgskgiq4enLDUNaq3%2FB1uwhmqg%3D%3D&channel=kkids
-#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-logo="https://admin.vov.gov.vn/UploadFolder/KhoTin/Images/UploadFolder/VOVVN/Images/sites/default/files/2024-02/vov1.jpg" group-title="Radio", VOV1
 http://media.kythuatvov.vn:7001/;stream/
 #EXTINF:-1 tvg-logo="https://vov2.vov.vn/themes/custom/vov_news/logo.png" group-title="Radio", VOV2
