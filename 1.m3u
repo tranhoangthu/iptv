@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+# TỔNG HỢP BỞI TRẦN HOÀNG THỨ
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" group-title="VTV", VTV1
 http://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg" group-title="VTV", VTV2
