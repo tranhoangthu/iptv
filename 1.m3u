@@ -1,13 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-
-
-#Tổng hợp bởi Trần Hoàng Thứ, được tổng hợp từ nhiều nguồn khác nhau
-
-#Đây là kênh tổng hợp của các kênh truyền hình iptv trên mạng xã hội, Admin không phải tác giả của những kênh này, do đó không chịu trách nhiệm về bất cứ điều gì dưới mọi hình thức
-
-#Tuyệt đối 100% không thu phí hay có bất kì hình thức thu tiền của mọi người
-
-
+#EXTM3U
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" group-title="VTV", VTV1
 http://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg" group-title="VTV", VTV2
@@ -63,47 +54,47 @@ https://sgchill.io.vn/tv/tv360.php?id=188
 #EXTINF:-1 tvg-id="ongolf" tvg-logo="https://img.lichphatsong.xyz/logo/on-golf.jpg" group-title="VTVcab", ON Golf
 https://sgchill.io.vn/tv/tv360.php?id=169
 #EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv1hd.png" group-title="SCTV", SCTV1 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv1
+https://sctv.locket.website/sctvonline.m3u8?protected=bIR6Ihq%2FNrhNclZ2YWkkVb02axlW7TeOCwmlGqTGVjxnTdfDUONBCCuUt5%2Bg3zbizmL%2BN7gDg3YYs9pVPoVBsg%3D%3D&channel=sctv1
 #EXTINF:-1 tvg-id="sctv2hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv2hd.png" group-title="SCTV", SCTV2 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv2
+https://sctv.locket.website/sctvonline.m3u8?protected=Nf2mqmd5LzoVZFvWNm%2BapGYvCBjWhk2yciMrPM5fcYiP5iA%2BffY9WTMnbEcBd6UOFYcHw6LzNqWJgF9ZRzWxeg%3D%3D&channel=sctv2
 #EXTINF:-1 tvg-id="sctv3hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv3hd.png" group-title="SCTV", SCTV3 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv3
+https://sctv.locket.website/sctvonline.m3u8?protected=Zlu0f9NiM67FSt7I0BX%2FhcuXexc3Xqi%2BmTmTc76vlv%2B3LG22yPN93deepDfWfGNXOCVFYfs9gyJE9aQC3TOGKg%3D%3D&channel=sctv3
 #EXTINF:-1 tvg-id="sctv4hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv4hd.png" group-title="SCTV", SCTV4 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv4
+https://sctv.locket.website/sctvonline.m3u8?protected=o5A88hb%2BuIathx5BRC5D0aSR6mtRLuzsvda5nwGqXK9vEy7KU8k7pUxGq15w9%2FCY8EloZ3ffsUgaYyKxePVn1A%3D%3D&channel=sctv4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/27/SCTV5_logo_2011.png/revision/latest?cb=20240917042739&path-prefix=vi" group-title="SCTV", SCTV5 HD - SCJ
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv5
+https://sctv.locket.website/sctvonline.m3u8?protected=hdXCCgOkev9CCtUBPcLeanivyxGoqwMgTwso1U2UtgBZxJH%2FgUujw%2FxOrGoEs627%2FbktGD7tuJqF9qlIezLcTQ%3D%3D&channel=sctv5
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv6hd.png" group-title="SCTV", SCTV6 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv6
+https://sctv.locket.website/sctvonline.m3u8?protected=fhyBpC6iA4SGGmhH1VOrAEf%2Fovl24ku7anUdFydFth2LX%2Fkwx3dMu1YrGGQ0xNqanfYeEJyR0KFCwTlpprhT6g%3D%3D&channel=sctv6
 #EXTINF:-1 tvg-id="sctv7hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv7hd.png" group-title="SCTV", SCTV7 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv7
+https://sctv.locket.website/sctvonline.m3u8?protected=ErVtuEviFjgsIwEWHqRbAbXySC0AIOAzSH4pd%2Bz4jFuJ2uEBcxyEBxqavNhMDDIYP0cLHeKMcvp5ziVqUQ5TWw%3D%3D&channel=sctv7
 #EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv8hd.png" group-title="SCTV", SCTV8 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv8
+https://sctv.locket.website/sctvonline.m3u8?protected=QrF0yL%2FXHEZvXOB7qwJrCbcEJ8Z1EM1f4TF6%2BsZgJQjmgVVz7fg551AbTcQ0dxgsr0arwWvTyKGNNpto%2BX4HfA%3D%3D&channel=sctv8
 #EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv9hd.png" group-title="SCTV", SCTV9 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv9
+https://sctv.locket.website/sctvonline.m3u8?protected=dmVpaYV6HKBAbYGCyDTRB%2FrW3HQmPDZcHqeq290bQCPqyk5JR9IPBvTBWsqm7rOj2indDn2Nggwx5Z8v629KDg%3D%3D&channel=sctv9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SCTV10.jpg" group-title="SCTV", SCTV10
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv10
+https://sctv.locket.website/sctvonline.m3u8?protected=E8RFbn2U6%2FGSm25n7zJgUK4fc3xFMfPnBwpVNJFjhjNiDs9pANKoGpp%2FTM980qKD3VtHU5sNY5vkZF%2BFxGPCQQ%3D%3D&channel=sctv10
 #EXTINF:-1 tvg-id="sctv11hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv11hd.png" group-title="SCTV", SCTV11 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv11
+https://sctv.locket.website/sctvonline.m3u8?protected=H684aSjbWaatUSLmEkVmo9DhB13C6Tqwbs7PZncO7TcfLJkpBpcEm7HU2V3fKcI4bEPd4TXcUPxd%2Fq%2FXn6r89A%3D%3D&channel=sctv11
 #EXTINF:-1 tvg-id="sctv12hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv12hd.png" group-title="SCTV", SCTV12 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv12
+https://sctv.locket.website/sctvonline.m3u8?protected=JF44%2B7G%2FPcbo559aprT6KyfBJxAuIXgnsgyz6T0igXitzqf2cgYMdl0ms5FgpvJYJtC6ORLO5T15przoKpn82g%3D%3D&channel=sctv12
 #EXTINF:-1 tvg-id="sctv13hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv13hd.png" group-title="SCTV", SCTV13 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv13
+https://sctv.locket.website/sctvonline.m3u8?protected=K6jbIA%2Bih%2Fk34oy9asdYyZzW1ApDrGK92AIEqoVWc33klibliqMUaMS%2FDsHWcj6S08jaOkyNGI2M9HFJ4swWkg%3D%3D&channel=sctv13
 #EXTINF:-1 tvg-id="sctv14hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv14hd.png" group-title="SCTV", SCTV14 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv14
+https://sctv.locket.website/sctvonline.m3u8?protected=MBVWhJhMvHIH%2BzuL4x2h2UmZX6pL0jj4ExFXOnjGZcZYSKCgK8fWNK%2F4KabWPgwiTz4EG8xSgtpnADTknkymYA%3D%3D&channel=sctv14
 #EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv16hd.png" group-title="SCTV", SCTV16 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv16
+https://sctv.locket.website/sctvonline.m3u8?protected=YkB55RI2h42ctCd4SqwaUyCEYY%2Be9nMHF75hXqzA91EQtgtydkX1HRSruZk2AcTAWnh%2FkWe2x7Ah%2FRdEnF29gQ%3D%3D&channel=sctv16
 #EXTINF:-1 tvg-id="sctv18hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv18hd.png" group-title="SCTV", SCTV18 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv18
+https://sctv.locket.website/sctvonline.m3u8?protected=Su46d1tunj%2BQ4cK5WfJv7dY%2B9bKTZThWaji46lOwgti3GcYd7V6IQnJfWoQj9oM8kZXVE%2FuHfDaqEPj3gsmzpw%3D%3D&channel=sctv18
 #EXTINF:-1 tvg-id="sctv19hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv19hd.png" group-title="SCTV", SCTV19 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv19
+https://sctv.locket.website/sctvonline.m3u8?protected=KuJnntCmOAqUfRMrcOeEShbF2PVOF%2Bgmv5xGbBgnl37uqjENfCDabdJhddzjsHBxdIu7t6ZdtM4odJQD5Eb2RA%3D%3D&channel=sctv19
 #EXTINF:-1 tvg-id="sctv20hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv20hd.png" group-title="SCTV", SCTV20 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv20
+https://sctv.locket.website/sctvonline.m3u8?protected=vK%2FtPXYQwCdeCxsUJNxE3%2BeYjZ1DmT7v6Dcbiv%2BatdUPsur3EPXWhj8in7lh9Jy2lRpxdif%2F5BatjSpRyoQwPA%3D%3D&channel=sctv20
 #EXTINF:-1 tvg-id="sctv21hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv21hd.jpg" group-title="SCTV", SCTV21 HD
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv21
+https://sctv.locket.website/sctvonline.m3u8?protected=rzPkH%2BHVPEa%2F1mLSGu6z0fQwNs1L5KmpLorask3CmDaz6vr%2BV3I6ei0Ml7elWemTcAQNYcApeoa1WzFVn0s3hw%3D%3D&channel=sctv21
 #EXTINF:-1 tvg-id="sctv22hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv22hd.png" group-title="SCTV", SCTV22 FHD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv22
 #EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://img.lichphatsong.xyz/logo/sctvhdpth.png" group-title="SCTV", SCTV HD Phim Tổng Hợp
-https://sctv.locket.website/sctvonline.m3u8?channel=sctvphim
+https://sctv.locket.website/sctvonline.m3u8?protected=DHxKqGKLI0xyJGa98mCCkbhCagMqOkiLzFDkzQi3sZLG29RR8OUBP%2F%2BnOSeqMPtColhSDqcwmky8%2FdQtjquaZQ%3D%3D&channel=sctvphim
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg" group-title="📦| In The Box", Box Movie 1
 https://sgchill.io.vn/tv/tv360.php?id=159
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg" group-title="📦| In The Box", Hollywood Classics
@@ -415,15 +406,15 @@ http://samisat44.xyz:80/live/5XF88W5/A38UYQV/68857.ts
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s" group-title="Quốc Tế", Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" tvg-logo="https://img.lichphatsong.xyz/logo/ksport1hd.jpg" group-title="K+", K+ Sport 1
-https://sctv.locket.website/kplus.m3u8?channel=ksport1
+https://sctv.locket.website/kplus.m3u8?protected=sEg%2FVl6BGZvBOC0k2%2BW%2BGuClIkO1vhCWpOgxwaE%2F3qqZAqI87qKoXnUpJM191QZ7TUfx5tWVmLslAog990c9yQ%3D%3D&channel=ksport1
 #EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://img.lichphatsong.xyz/logo/ksport2hd.jpg" group-title="K+", K+ Sport 2
-https://sctv.locket.website/kplus.m3u8?channel=ksport2
+https://sctv.locket.website/kplus.m3u8?protected=JRkwViuSlNp8fnz8GAGhtRHCXIXCI8xMOb%2BIJXtRqk%2FyaysTUNS%2FtAp%2BR86N3mNlxwkoy%2FbNoedJEx3AVkWlUA%3D%3D&channel=ksport2
 #EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://img.lichphatsong.xyz/logo/kcinehd.jpg" group-title="K+", K+ CINE
-https://sctv.locket.website/kplus.m3u8?channel=kcine
+https://sctv.locket.website/kplus.m3u8?protected=hsrZebF1Fk%2BKb%2BEqLu2l8Hi%2FD1905oxedfbKtGijE1Ig%2FgFqMqsjfhGLpkr0f1BDLcPmhOAsjvOE%2BhCzjCCvnw%3D%3D&channel=kcine
 #EXTINF:-1 tvg-id="kaction" tvg-logo="https://img.lichphatsong.xyz/logo/kaction.jpg" group-title="K+", K+ ACTION
-https://sctv.locket.website/kplus.m3u8?channel=kaction
+https://sctv.locket.website/kplus.m3u8?protected=F03J8dAFzIgUVPMDo0qbQJ6nFyu9DbCI5H56aX%2BXXTbgdgLVvQ7iK3M7Md44rA8uQKcWUq81CA9wqkukoTshhQ%3D%3D&channel=kaction
 #EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://img.lichphatsong.xyz/logo/kkidshd.jpg" group-title="K+", K+ KIDS
-https://sctv.locket.website/kplus.m3u8?channel=kkids
+https://sctv.locket.website/kplus.m3u8?protected=RceWRFgtmtseWeOHmG6HtnD22jPmyoT%2FzDoWf0LSe0qya4Xu%2F9pDp4fqs6roRgskgiq4enLDUNaq3%2FB1uwhmqg%3D%3D&channel=kkids
 #EXTINF:-1 tvg-logo="https://admin.vov.gov.vn/UploadFolder/KhoTin/Images/UploadFolder/VOVVN/Images/sites/default/files/2024-02/vov1.jpg" group-title="Radio", VOV1
 http://media.kythuatvov.vn:7001/;stream/
 #EXTINF:-1 tvg-logo="https://vov2.vov.vn/themes/custom/vov_news/logo.png" group-title="Radio", VOV2
@@ -588,5 +579,3 @@ https://strm.voh.com.vn/radio/channel1/chunklist_w1203304311.m3u8
 https://strm.voh.com.vn/radio/channel2/chunklist_w558517770.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="🇻🇳 Vietnam Radio",NHK WORLD
 https://b-nhkwlive-rj.nhkworld.jp/hls/live/2003468-b/rj-7ch/index_07.m3u8
-
-
