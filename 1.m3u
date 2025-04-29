@@ -22,6 +22,9 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://img.lichphatsong.xyz/logo/vtv9hd.jpg" group-title="VTV", VTV9
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
+
+
+#==============================================================================================================================================================================
 #EXTINF:-1 tvg-id="onviegiaitri" tvg-logo="https://img.lichphatsong.xyz/logo/on-viegiaitri.jpg" group-title="VTVcab",ON Vie Giải trí
 https://sgchill.io.vn/tv/tv360.php?id=180
 #EXTINF:-1 tvg-id="onphimviet" tvg-logo="https://img.lichphatsong.xyz/logo/on-phimviet.jpg" group-title="VTVcab", ON Phim Việt
@@ -54,48 +57,77 @@ https://sgchill.io.vn/tv/tv360.php?id=179
 https://sgchill.io.vn/tv/tv360.php?id=188
 #EXTINF:-1 tvg-id="ongolf" tvg-logo="https://img.lichphatsong.xyz/logo/on-golf.jpg" group-title="VTVcab", ON Golf
 https://sgchill.io.vn/tv/tv360.php?id=169
+
+
+
+#==============================================================================================================================================================================================
 #EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv1hd.png" group-title="SCTV", SCTV1 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=bIR6Ihq%2FNrhNclZ2YWkkVb02axlW7TeOCwmlGqTGVjxnTdfDUONBCCuUt5%2Bg3zbizmL%2BN7gDg3YYs9pVPoVBsg%3D%3D&channel=sctv1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv2hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv2hd.png" group-title="SCTV", SCTV2 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=Nf2mqmd5LzoVZFvWNm%2BapGYvCBjWhk2yciMrPM5fcYiP5iA%2BffY9WTMnbEcBd6UOFYcHw6LzNqWJgF9ZRzWxeg%3D%3D&channel=sctv2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv3hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv3hd.png" group-title="SCTV", SCTV3 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=Zlu0f9NiM67FSt7I0BX%2FhcuXexc3Xqi%2BmTmTc76vlv%2B3LG22yPN93deepDfWfGNXOCVFYfs9gyJE9aQC3TOGKg%3D%3D&channel=sctv3
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv4hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv4hd.png" group-title="SCTV", SCTV4 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=o5A88hb%2BuIathx5BRC5D0aSR6mtRLuzsvda5nwGqXK9vEy7KU8k7pUxGq15w9%2FCY8EloZ3ffsUgaYyKxePVn1A%3D%3D&channel=sctv4
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/27/SCTV5_logo_2011.png/revision/latest?cb=20240917042739&path-prefix=vi" group-title="SCTV", SCTV5 HD - SCJ
 https://sctv.locket.website/sctvonline.m3u8?protected=hdXCCgOkev9CCtUBPcLeanivyxGoqwMgTwso1U2UtgBZxJH%2FgUujw%2FxOrGoEs627%2FbktGD7tuJqF9qlIezLcTQ%3D%3D&channel=sctv5
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv6hd.png" group-title="SCTV", SCTV6 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=fhyBpC6iA4SGGmhH1VOrAEf%2Fovl24ku7anUdFydFth2LX%2Fkwx3dMu1YrGGQ0xNqanfYeEJyR0KFCwTlpprhT6g%3D%3D&channel=sctv6
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv7hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv7hd.png" group-title="SCTV", SCTV7 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=ErVtuEviFjgsIwEWHqRbAbXySC0AIOAzSH4pd%2Bz4jFuJ2uEBcxyEBxqavNhMDDIYP0cLHeKMcvp5ziVqUQ5TWw%3D%3D&channel=sctv7
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv8hd.png" group-title="SCTV", SCTV8 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=QrF0yL%2FXHEZvXOB7qwJrCbcEJ8Z1EM1f4TF6%2BsZgJQjmgVVz7fg551AbTcQ0dxgsr0arwWvTyKGNNpto%2BX4HfA%3D%3D&channel=sctv8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv9hd.png" group-title="SCTV", SCTV9 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=dmVpaYV6HKBAbYGCyDTRB%2FrW3HQmPDZcHqeq290bQCPqyk5JR9IPBvTBWsqm7rOj2indDn2Nggwx5Z8v629KDg%3D%3D&channel=sctv9
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SCTV10.jpg" group-title="SCTV", SCTV10
 https://sctv.locket.website/sctvonline.m3u8?protected=E8RFbn2U6%2FGSm25n7zJgUK4fc3xFMfPnBwpVNJFjhjNiDs9pANKoGpp%2FTM980qKD3VtHU5sNY5vkZF%2BFxGPCQQ%3D%3D&channel=sctv10
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv11hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv11hd.png" group-title="SCTV", SCTV11 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=H684aSjbWaatUSLmEkVmo9DhB13C6Tqwbs7PZncO7TcfLJkpBpcEm7HU2V3fKcI4bEPd4TXcUPxd%2Fq%2FXn6r89A%3D%3D&channel=sctv11
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv12hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv12hd.png" group-title="SCTV", SCTV12 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=JF44%2B7G%2FPcbo559aprT6KyfBJxAuIXgnsgyz6T0igXitzqf2cgYMdl0ms5FgpvJYJtC6ORLO5T15przoKpn82g%3D%3D&channel=sctv12
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv13hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv13hd.png" group-title="SCTV", SCTV13 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=K6jbIA%2Bih%2Fk34oy9asdYyZzW1ApDrGK92AIEqoVWc33klibliqMUaMS%2FDsHWcj6S08jaOkyNGI2M9HFJ4swWkg%3D%3D&channel=sctv13
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv14hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv14hd.png" group-title="SCTV", SCTV14 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=MBVWhJhMvHIH%2BzuL4x2h2UmZX6pL0jj4ExFXOnjGZcZYSKCgK8fWNK%2F4KabWPgwiTz4EG8xSgtpnADTknkymYA%3D%3D&channel=sctv14
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv16hd.png" group-title="SCTV", SCTV16 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=YkB55RI2h42ctCd4SqwaUyCEYY%2Be9nMHF75hXqzA91EQtgtydkX1HRSruZk2AcTAWnh%2FkWe2x7Ah%2FRdEnF29gQ%3D%3D&channel=sctv16
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv18hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv18hd.png" group-title="SCTV", SCTV18 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=Su46d1tunj%2BQ4cK5WfJv7dY%2B9bKTZThWaji46lOwgti3GcYd7V6IQnJfWoQj9oM8kZXVE%2FuHfDaqEPj3gsmzpw%3D%3D&channel=sctv18
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv19hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv19hd.png" group-title="SCTV", SCTV19 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=KuJnntCmOAqUfRMrcOeEShbF2PVOF%2Bgmv5xGbBgnl37uqjENfCDabdJhddzjsHBxdIu7t6ZdtM4odJQD5Eb2RA%3D%3D&channel=sctv19
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv20hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv20hd.png" group-title="SCTV", SCTV20 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=vK%2FtPXYQwCdeCxsUJNxE3%2BeYjZ1DmT7v6Dcbiv%2BatdUPsur3EPXWhj8in7lh9Jy2lRpxdif%2F5BatjSpRyoQwPA%3D%3D&channel=sctv20
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv21hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv21hd.jpg" group-title="SCTV", SCTV21 HD
 https://sctv.locket.website/sctvonline.m3u8?protected=rzPkH%2BHVPEa%2F1mLSGu6z0fQwNs1L5KmpLorask3CmDaz6vr%2BV3I6ei0Ml7elWemTcAQNYcApeoa1WzFVn0s3hw%3D%3D&channel=sctv21
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctv22hd" tvg-logo="https://img.lichphatsong.xyz/logo/sctv22hd.png" group-title="SCTV", SCTV22 FHD
 https://sctv.locket.website/sctvonline.m3u8?channel=sctv22
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://img.lichphatsong.xyz/logo/sctvhdpth.png" group-title="SCTV", SCTV HD Phim Tổng Hợp
 https://sctv.locket.website/sctvonline.m3u8?protected=DHxKqGKLI0xyJGa98mCCkbhCagMqOkiLzFDkzQi3sZLG29RR8OUBP%2F%2BnOSeqMPtColhSDqcwmky8%2FdQtjquaZQ%3D%3D&channel=sctvphim
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+
+
+
+#==================================================================================================================================================================================
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg" group-title="📦| In The Box", Box Movie 1
 https://sgchill.io.vn/tv/tv360.php?id=159
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg" group-title="📦| In The Box", Hollywood Classics
@@ -116,6 +148,8 @@ https://sgchill.io.vn/tv/tv360.php?id=212
 https://sgchill.io.vn/tv/tv360.php?id=135
 #EXTINF:-1 tvg-id="woman" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png" group-title="📦| In The Box", Woman
 https://sgchill.io.vn/tv/tv360.php?id=163
+
+#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" group-title="HTV", HTV1
 https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/a0/07/73/39/9e/e6/a0739-phtv2hd-channel-unkn.png" group-title="HTV", HTV2 - Vie Channel
@@ -144,12 +178,16 @@ https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_640_360.png" group-title="HTVC", HTVC Plus HD
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
+
+#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-id="antvhd" tvg-logo="https://img.lichphatsong.xyz/logo/antv.png" group-title="🌐| Thiết yếu", ANTV HD
 https://sgchill.io.vn/tv/tv360.php?id=20
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://img.lichphatsong.xyz/logo/qpvnhd.jpg" group-title="🌐| Thiết yếu", QPVN HD
 https://sgchill.io.vn/tv/tv360.php?id=19
+#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-id="anvienhd" tvg-logo="https://i.ytimg.com/vi/_rDp9EylTPg/maxresdefault.jpg" group-title="Khác", BTV9 - An Viên TV
 https://btv11011220.cdn.vnns.io/8ae612fb76128aa8d8acb62f7f9361a61745327029/btv9.720p.tms/playlist.m3u8
+#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-id="daklak" tvg-logo="https://img.lichphatsong.xyz/logo/daklak.png" group-title="Địa phương", DRT HD | TH Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 #EXTINF:-1 tvg-id="daknong" tvg-logo="https://img.lichphatsong.xyz/logo/daknong.png" group-title="Địa phương", PTD | Truyền Hình Đắk Nông
@@ -190,6 +228,7 @@ https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="baclieu" tvg-logo="https://img.lichphatsong.xyz/logo/baclieu.jpg" group-title="Địa phương", Bạc Liêu HD
 https://tv.thbl.vn/live/tv/tv.m3u8
+#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong1hd.jpg" group-title="Địa phương", THVL1 HD
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong2hd.jpg" group-title="Địa phương", THVL2 HD
@@ -198,6 +237,7 @@ https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong4hd.png" group-title="Địa phương", THVL4 HD
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
+#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://img.lichphatsong.xyz/logo/angiang.png" group-title="Địa phương", ATV | Truyền Hình An Giang
 https://xem.TruyenHinh.Click/CoBan/123/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vungtau" tvg-logo="https://img.lichphatsong.xyz/logo/vungtau.png" group-title="Địa phương", BRT | Truyền Hình Bà Rịa Vũng Tàu
@@ -306,6 +346,9 @@ https://btv2011220.cdn.vnns.io/1623b3bf6bd6f19c3399df8d4bab80fa1745327029/btv2.4
 https://xem.TruyenHinh.Click/CoBan/168/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="lamdong" tvg-logo="https://img.lichphatsong.xyz/logo/lamdong.png" group-title="Địa phương", LTV HD | Truyền Hình Lâm Đồng
 https://xem.TruyenHinh.Click/CoBan/158/TuyetDoiKhongKinhDoanh.m3u8
+
+
+#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png" group-title="Quốc Tế", HBO
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://img.lichphatsong.xyz/logo/hbohitshd-asia.png" group-title="Quốc Tế", HBO Hits HD
@@ -406,6 +449,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/11018
 http://samisat44.xyz:80/live/5XF88W5/A38UYQV/68857.ts
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s" group-title="Quốc Tế", Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-id="ksport1hd" tvg-logo="https://img.lichphatsong.xyz/logo/ksport1hd.jpg" group-title="K+", K+ Sport 1
 https://sctv.locket.website/kplus.m3u8?protected=sEg%2FVl6BGZvBOC0k2%2BW%2BGuClIkO1vhCWpOgxwaE%2F3qqZAqI87qKoXnUpJM191QZ7TUfx5tWVmLslAog990c9yQ%3D%3D&channel=ksport1
 #EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://img.lichphatsong.xyz/logo/ksport2hd.jpg" group-title="K+", K+ Sport 2
@@ -416,6 +460,7 @@ https://sctv.locket.website/kplus.m3u8?protected=hsrZebF1Fk%2BKb%2BEqLu2l8Hi%2FD
 https://sctv.locket.website/kplus.m3u8?protected=F03J8dAFzIgUVPMDo0qbQJ6nFyu9DbCI5H56aX%2BXXTbgdgLVvQ7iK3M7Md44rA8uQKcWUq81CA9wqkukoTshhQ%3D%3D&channel=kaction
 #EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://img.lichphatsong.xyz/logo/kkidshd.jpg" group-title="K+", K+ KIDS
 https://sctv.locket.website/kplus.m3u8?protected=RceWRFgtmtseWeOHmG6HtnD22jPmyoT%2FzDoWf0LSe0qya4Xu%2F9pDp4fqs6roRgskgiq4enLDUNaq3%2FB1uwhmqg%3D%3D&channel=kkids
+#==========================================================================================================================================================================================
 #EXTINF:-1 tvg-logo="https://admin.vov.gov.vn/UploadFolder/KhoTin/Images/UploadFolder/VOVVN/Images/sites/default/files/2024-02/vov1.jpg" group-title="Radio", VOV1
 http://media.kythuatvov.vn:7001/;stream/
 #EXTINF:-1 tvg-logo="https://vov2.vov.vn/themes/custom/vov_news/logo.png" group-title="Radio", VOV2
