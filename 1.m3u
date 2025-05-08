@@ -61,8 +61,31 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ongolf" tvg-logo="https://img.lichphatsong.xyz/logo/on-golf.jpg" group-title="VTVcab", ON Golf
 https://xem.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh.m3u8
 
+#EXTINF:-1 tvg-id="ON Plus Ligue 1" group-title="VTVcab" group-logo="https://sctv.locket.website/img/onplus.png",On Plus Ligue 1
+https://sctv.locket.website/box.m3u8?protected=upcUeLQktyP%2F9H72Xo4qnUzgDV6dYNVwFj9Xy7KijlQUWsfKtD%2BwSnoxg7KhZ3Jh6G3TMmDdwbHMr324zif3MA%3D%3D&channel=onplusligue1&sports=true
 
-#EXTM3U
+#EXTINF:-1 tvg-id="ON Plus Seriea" group-title="VTVcab" group-logo="https://sctv.locket.website/img/onplus.png",On Plus Seriea
+https://sctv.locket.website/box.m3u8?protected=bJiOvf6IQDsCYZfefXKCUAHIjyhZMOhXtEXmgeU%2F0riqmZEahIU8sKgAfYSbMWkXN4x0tOlBylZpT9Xqrw6mHQ%3D%3D&channel=onplusseriea&sports=true
+
+#EXTINF:-1 tvg-id="ON Plus Bundesliga" group-title="VTVcab" group-logo="https://sctv.locket.website/img/onplus.png",On Plus Bundesliga
+https://sctv.locket.website/box.m3u8?protected=JCpqZJZnFTkzaA%2B26LsmUJ7U3ZpCUoCOzuY1WrOT0pslXOL2dtowiSU%2BT8pXEnx3O81RPCU%2Fsr%2FU9EwRJxu0%2FA%3D%3D&channel=onplusbundesliga&sports=true
+
+#EXTINF:-1 tvg-id="ON SPORTS HD" group-title="VTVcab" group-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportsvuong2.jpg",On Sports HD
+https://sctv.locket.website/box.m3u8?protected=Ojvmwck87NWL2fKOrw0z7E0l3LaOqIL%2FrcYtKd9G4DGz76efvL4xqLeND31KztqrEa8b5CIF5SE03eToUAm8kA%3D%3D&channel=onsporthd&sports=true
+
+#EXTINF:-1 tvg-id="ON SPORTS PLUS" group-title="VTVcab" group-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportcongmoivuong1.jpg",On Sports Plus
+https://sctv.locket.website/box.m3u8?protected=XGCqyADCeAfT0ZzNcivAcK%2BQOGZNCoSTsolmH9fWNwvq3mxcdgRomNgOmM08okecT7DjBuzA2muvKhzddE1rYw%3D%3D&channel=onsportplus&sports=true
+
+#EXTINF:-1 tvg-id="ON FOOTBALL" group-title="VTVcab" group-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onfootballvuong2.jpg",On Football
+https://sctv.locket.website/box.m3u8?protected=rMWGrttHsxkf65eZd95DvEfzW2kLxnU9l9gunzTkJOBgWcNhP4v7IUCWIf7N%2BYDdiUCyON7RQafbemoU6jFp3w%3D%3D&channel=onfootball&sports=true
+
+#EXTINF:-1 tvg-id="ON SPORTS NEWS" group-title="VTVcab" group-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onnewsvuong3.jpg",On Sports News
+https://sctv.locket.website/box.m3u8?protected=Ov4gZDI27%2FfMBiDZMHOKoS8i5bMJLbyyf2dCkR6u8SamwVu9q4AyCa%2Fk6ij7GIAYr09DWEyhWGVTs97EAdhxYg%3D%3D&channel=onsportnew&sports=true
+
+#EXTINF:-1 tvg-id="ON GOLF" group-title="VTVcab" group-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/on_gold1_1675158871.webp",On Golf
+https://sctv.locket.website/box.m3u8?protected=obMUASPF3SO46YVxGxAPjP2LHcBHrJvFu3I29rSEkgUZ7APvPoHUFQhQ1L5Hdxck4qniVSMVtlGkmBVI5DkmZg%3D%3D&channel=ongolf&sports=true
+
+
 
 #EXTINF:-1 tvg-id="TVB Vietnam" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",TVB Vietnam
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
